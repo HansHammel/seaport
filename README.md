@@ -1,5 +1,15 @@
 # seaport
 
+[![Package Quality](http://npm.packagequality.com/shield/seaport.svg)](http://packagequality.com/#?package=seaport)
+[![Inline docs](http://inch-ci.org/github/HansHammel/seaport.svg?branch=master)](http://inch-ci.org/github/HansHammel/seaport)
+[![star this repo](http://githubbadges.com/star.svg?user=HansHammel&repo=seaport&style=flat&color=fff&background=007ec6)](https://github.com/HansHammel/seaport)
+[![fork this repo](http://githubbadges.com/fork.svg?user=HansHammel&repo=seaport&style=flat&color=fff&background=007ec6)](https://github.com/HansHammel/seaport/fork)
+[![david dependency](https://img.shields.io/david/HansHammel/seaport.svg)](https://david-dm.org/HansHammel/seaport)
+[![david devDependency](https://img.shields.io/david/dev/HansHammel/seaport.svg)](https://david-dm.org/HansHammel/seaport)
+[![david optionalDependency](https://img.shields.io/david/optional/HansHammel/seaport.svg)](https://david-dm.org/HansHammel/seaport)
+[![david peerDependency](https://img.shields.io/david/peer/HansHammel/seaport.svg)](https://david-dm.org/HansHammel/seaport)
+[![Known Vulnerabilities](https://snyk.io/test/github/HansHammel/seaport/badge.svg)](https://snyk.io/test/github/HansHammel/seaport)
+
 service registry and port assignment for clusters
 
 [![build status](https://secure.travis-ci.org/substack/seaport.png)](http://travis-ci.org/substack/seaport)
