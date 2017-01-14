@@ -1,5 +1,8 @@
 # seaport
 
+service registry and port assignment for clusters
+
+[![Build Status](https://travis-ci.org/HansHammel/seaport.svg?branch=master)](https://travis-ci.org/HansHammel/seaport)
 [![Package Quality](http://npm.packagequality.com/shield/seaport.svg)](http://packagequality.com/#?package=seaport)
 [![Inline docs](http://inch-ci.org/github/HansHammel/seaport.svg?branch=master)](http://inch-ci.org/github/HansHammel/seaport)
 [![star this repo](http://githubbadges.com/star.svg?user=HansHammel&repo=seaport&style=flat&color=fff&background=007ec6)](https://github.com/HansHammel/seaport)
@@ -9,10 +12,6 @@
 [![david optionalDependency](https://img.shields.io/david/optional/HansHammel/seaport.svg)](https://david-dm.org/HansHammel/seaport)
 [![david peerDependency](https://img.shields.io/david/peer/HansHammel/seaport.svg)](https://david-dm.org/HansHammel/seaport)
 [![Known Vulnerabilities](https://snyk.io/test/github/HansHammel/seaport/badge.svg)](https://snyk.io/test/github/HansHammel/seaport)
-
-service registry and port assignment for clusters
-
-[![build status](https://secure.travis-ci.org/substack/seaport.png)](http://travis-ci.org/substack/seaport)
 
 Seaport stores `(host,port)` combos (and other metadata) for you so you won't
 need to spend so much effort keeping configuration files current as your
