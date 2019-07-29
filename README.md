@@ -11,7 +11,7 @@ service registry and port assignment for clusters
 [![david devDependency](https://img.shields.io/david/dev/HansHammel/seaport.svg)](https://david-dm.org/HansHammel/seaport)
 [![david optionalDependency](https://img.shields.io/david/optional/HansHammel/seaport.svg)](https://david-dm.org/HansHammel/seaport)
 [![david peerDependency](https://img.shields.io/david/peer/HansHammel/seaport.svg)](https://david-dm.org/HansHammel/seaport)
-[![Known Vulnerabilities](https://snyk.io/test/github/HansHammel/seaport/badge.svg)](https://snyk.io/test/github/HansHammel/seaport)
+[![Known Vulnerabilities](https://snyk.io/test/github/HansHammel/seaport/badge.svg)](https://snyk.io/test/github/HansHammel/seaport) [![Greenkeeper badge](https://badges.greenkeeper.io/HansHammel/seaport.svg)](https://greenkeeper.io/)
 
 Seaport stores `(host,port)` combos (and other metadata) for you so you won't
 need to spend so much effort keeping configuration files current as your

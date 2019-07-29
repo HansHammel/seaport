@@ -34,9 +34,9 @@
     "merge": "^1.2.0",
     "object-keys": "^1.0.11",
     "optimist": "^0.6.1",
-    "readable-stream": "^2.2.2",
+    "readable-stream": "^3.4.0",
     "secure-peer": "^0.2.1",
-    "semver": "^5.3.0",
+    "semver": "^6.3.0",
     "split": "^1.0.0",
     "stream-combiner": "^0.2.2",
     "through": "^2.3.8"
@@ -45,10 +45,10 @@
     "node": ">=0.8"
   },
   "devDependencies": {
-    "async": "^2.1.4",
+    "async": "^3.1.0",
     "destroyer": "0.0.0",
     "macgyver": "^1.10.1",
-    "tap": "^0.4.13"
+    "tap": "^14.5.0"
   },
   "license": "MIT",
   "author": {
