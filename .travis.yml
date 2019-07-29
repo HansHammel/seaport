@@ -5,17 +5,22 @@ sudo: false
 branches:
   only:
     - master
-    - /^greenkeeper/.*$/
+    - /^greenkeeper-.*$/
 
 node_js:
-  - '4'
-  - '5'
-  - '6'
   - '7'
+  - '8'
+  - '9'
+  - '10'
+  - '11'
+  - '12'
+  - node
+
 os:
+  - windows
   - linux
   - osx
-
+ 
 env:
   - NODE_ENV=testing
 
@@ -27,5 +32,5 @@ cache:
     - travis_phantomjs
     - node_modules	
   
-before_install:
-  - npm install -g npm
+#before_install:
+#  - npm install -g npm
