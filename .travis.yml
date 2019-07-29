@@ -32,5 +32,5 @@ cache:
     - travis_phantomjs
     - node_modules	
   
-before_install:
-  - npm install -g npm
+#before_install:
+#  - npm install -g npm
