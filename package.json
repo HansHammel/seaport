@@ -48,7 +48,7 @@
     "async": "^3.1.0",
     "destroyer": "0.0.0",
     "macgyver": "^1.10.1",
-    "tap": "^14.5.0"
+    "tap": "^14.7.3"
   },
   "license": "MIT",
   "author": {
